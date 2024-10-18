@@ -49,6 +49,7 @@ I am creating a project to showcase my skills in Python, VBA, and data analysis.
 
 * **Gender:** It can be seen that although there is a relationship between the payment for these services and the gender of the clients, the relationship that links them is not deep.
 * **Age:** On the other hand, it is observed that there is a strong relationship between the payment for these services and the ages of the customers.
+* **Unified conclusion:** It can be concluded that while it is true that the gender of the clients is important when contracting these services, age is the most important factor for contracting them.
 
 ## Technical Details
 
