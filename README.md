@@ -6,9 +6,6 @@ This project demonstrates the integration of Python statistical analysis with a 
 
 I am creating a project to showcase my skills in Python, VBA, and data analysis. I will upload a teaser now.
 
-## Features
-
-* Built upon `matplotlib` y `SciPy`.
 
 ## Presentation of Advances
 
