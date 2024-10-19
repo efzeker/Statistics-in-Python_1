@@ -1,6 +1,6 @@
 # Python Statistical Analysis
 
-This project demonstrates the integration of Python statistical analysis with a Microsoft Access database using VBA. It uses Python to determine the association between gender and age with the payment for a different services of the same category.
+This project demonstrates the integration of Python statistical analysis with VBA. It uses Python to determine the association between gender and age with the payment for a different services of the same category.
 
 ## Motivation
 
